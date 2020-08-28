@@ -2,7 +2,7 @@
 
 ## 明确自己需要什么样的调试环境
 
-1. 虚拟机内安装build-essential之类的开发工具方便
+1. 方便在虚拟机内安装build-essential之类的开发工具
 
 ## qemu+gdb
 
